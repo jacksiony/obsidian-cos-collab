@@ -8,7 +8,7 @@ tags:
   - ai-collaboration
   - tencent-cloud
 version: 1.0.0
-author: 安生（基于参数之缘文章）
+author: 安生（基于参数之缘）
 ---
 
 # Obsidian + COS + OpenClaw 协作技能
